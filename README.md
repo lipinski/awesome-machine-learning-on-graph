@@ -11,7 +11,11 @@ This is a curated list of resources for machine learning on graph, including gra
 
 ## Research Papers
 
+[A Comprehensive Survey on Graph Neural Networks (**ARXIV, 2019**)](https://arxiv.org/abs/1901.00596)
+
 [Machine Learning on Graphs: A Model and Comprehensive Taxonomy (**ARXIV, 2022**)](https://arxiv.org/pdf/2204.03080.pdf)
+
+### Books
 
 [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/)
 
@@ -51,7 +55,7 @@ This is a curated list of resources for machine learning on graph, including gra
 
 ## Datasets
 
-[Open Graph Benchmark (OGB)](https://ogb.stanford.edu/): is a collection of realistic, large-scale, and diverse benchmark datasets for machine learning on graphs
+**[Open Graph Benchmark (OGB)](https://ogb.stanford.edu/)**: is a collection of realistic, large-scale, and diverse benchmark datasets for machine learning on graphs
 
 ## Contributing
 Contributions are welcome! If you have any suggestions for resources to add or find any errors, please create an issue or pull request.

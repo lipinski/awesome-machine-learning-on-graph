@@ -17,6 +17,11 @@ This is a curated list of resources for machine learning on graph, including gra
 
 [Machine Learning on Graphs: A Model and Comprehensive Taxonomy (**ARXIV, 2022**)](https://arxiv.org/pdf/2005.03675.pdf)
 
+### Applications
+
+[A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions (**ARXIV, 2020**)](https://arxiv.org/pdf/2109.12843.pdf)
+
+
 ### Books
 
 [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/)
